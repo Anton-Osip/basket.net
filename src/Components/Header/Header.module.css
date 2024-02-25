@@ -1,0 +1,13 @@
+#header {
+  width: 100%;
+  height: auto;
+  padding: 25px 15px;
+  background-color: #096dd9;
+  margin-bottom: 15px;
+}
+
+#header .logo {
+  display: inline-block;
+  cursor: pointer;
+  width: 50px;
+}

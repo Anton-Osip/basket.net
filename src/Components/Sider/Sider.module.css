@@ -1,0 +1,5 @@
+#sider {
+  min-height: calc(100lvh - 130px);
+  background-color: #fff;
+  margin-right: 15px;
+}

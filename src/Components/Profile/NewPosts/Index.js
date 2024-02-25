@@ -1,0 +1,1 @@
+import { NewPosts } from './NewPosts'
